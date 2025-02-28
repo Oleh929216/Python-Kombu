@@ -1,14 +1,3 @@
-========================================
- kombu - Messaging library for Python
-========================================
-
-|build-status| |coverage| |license| |wheel| |pyversion| |pyimp| |downloads|
-
-:Version: 5.5.0rc2
-:Documentation: https://kombu.readthedocs.io/
-:Download: https://pypi.org/project/kombu/
-:Source: https://github.com/celery/kombu/
-:Keywords: messaging, amqp, rabbitmq, redis, mongodb, python, queue
 
 About
 =====
@@ -297,66 +286,6 @@ by doing the following,:
 
 
 
-Getting Help
-============
-
-Mailing list
-------------
-
-Join the `celery-users`_ mailing list.
-
-.. _`kombu forum`: https://github.com/celery/kombu/discussions
-
-Bug tracker
-===========
-
-If you have any suggestions, bug reports or annoyances please report them
-to our issue tracker at https://github.com/celery/kombu/issues/
-
-Contributing
-============
-
-Development of `Kombu` happens at Github: https://github.com/celery/kombu
-
-You are highly encouraged to participate in the development. If you don't
-like Github (for some reason) you're welcome to send regular patches.
-
-License
-=======
-
-This software is licensed under the `New BSD License`. See the `LICENSE`
-file in the top distribution directory for the full license text.
 
 
-.. |build-status| image:: https://github.com/celery/kombu/actions/workflows/ci.yaml/badge.svg
-    :alt: Build status
-    :target: https://github.com/celery/kombu/actions/workflows/ci.yml
-
-.. |coverage| image:: https://codecov.io/github/celery/kombu/coverage.svg?branch=main
-    :target: https://codecov.io/github/celery/kombu?branch=main
-
-.. |license| image:: https://img.shields.io/pypi/l/kombu.svg
-    :alt: BSD License
-    :target: https://opensource.org/licenses/BSD-3-Clause
-
-.. |wheel| image:: https://img.shields.io/pypi/wheel/kombu.svg
-    :alt: Kombu can be installed via wheel
-    :target: https://pypi.org/project/kombu/
-
-.. |pyversion| image:: https://img.shields.io/pypi/pyversions/kombu.svg
-    :alt: Supported Python versions.
-    :target: https://pypi.org/project/kombu/
-
-.. |pyimp| image:: https://img.shields.io/pypi/implementation/kombu.svg
-     :alt: Support Python implementations.
-     :target: https://pypi.org/project/kombu/
-.. |downloads| image:: https://pepy.tech/badge/kombu
-    :target: https://pepy.tech/project/kombu
-
-kombu as part of the Tidelift Subscription
-=======
-
-The maintainers of kombu and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/pypi-kombu?utm_source=pypi-kombu&utm_medium=referral&utm_campaign=readme&utm_term=repo)
-
---
 
